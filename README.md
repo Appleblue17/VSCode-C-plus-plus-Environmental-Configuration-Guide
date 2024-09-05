@@ -1,4 +1,4 @@
-
+在博客中浏览：[**Github**](https://github.com/Appleblue18/VSCode-C-Environmental-Configuration-Guide/tree/main)，[**cnblogs**](https://www.cnblogs.com/Appleblue17/p/18399462)。
 
 ## 前言
 
