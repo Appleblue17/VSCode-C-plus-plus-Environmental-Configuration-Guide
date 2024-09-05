@@ -1,4 +1,4 @@
-
+在博客中浏览：[**Github**](https://github.com/Appleblue18/VSCode-C-Environmental-Configuration-Guide/tree/main)，[**cnblogs**](https://www.cnblogs.com/Appleblue17/p/18399462)。
 
 ## 前言
 
@@ -17,11 +17,13 @@
 
 1. 下载 VSCode 并安装。链接：[VSCode](https://code.visualstudio.com/)
 
-2. 下载 MinGW（编译器）。
+2. 下载 MinGW（编译器）。对于 Windows 64 位系统：
 
     - 直接下载。链接：[MinGW64](https://www.mingw-w64.org/)
 
     - 或者下载 Dev-C++，里面自带 MinGW。链接：[Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+
+   对于 Linux 系统，详见下文。
 
 ## 配置流程（Windows 64 位）
 
