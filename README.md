@@ -111,7 +111,7 @@ int main(){
 
 ### 方法二
 
-使用 Code Runner 拓展进行编译和运行。快捷键为 `Ctrl+Fn+N`。
+使用 Code Runner 拓展进行编译和运行。快捷键为 `Ctrl+Alt+N`。
 
 缺点：只能运行而不能调试。
 
